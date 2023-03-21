@@ -1,4 +1,4 @@
-# Cocos Creator 舖克元件
+# Cocos Creator 籌碼元件
 
 ## 概述
 
